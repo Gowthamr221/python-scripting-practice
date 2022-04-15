@@ -1,5 +1,6 @@
 import random
-
+print("the game will start automatically")
+print("type End to end")
 choices = ["Rock","paper","Scissors"]
 computer = random.choice(choices)
 

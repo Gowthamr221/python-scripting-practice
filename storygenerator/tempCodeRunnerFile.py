@@ -1,0 +1,1 @@
+t) + ' and ' + random.choice(happened))
